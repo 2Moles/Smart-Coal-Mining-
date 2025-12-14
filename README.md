@@ -12,7 +12,7 @@ Files added
 - `sensor_data.json` — Example sensor readings.
 
 ## Visual Worflow 
-<img width="1128" height="379" alt="image" src="https://github.com/user-attachments/assets/7537be6d-07e2-4ca1-beae-870fb5006662" />
+<img width="1910" height="2160" alt="diagram-export-12-14-2025-2_46_45-PM" src="https://github.com/user-attachments/assets/0bf89f1c-5270-46a9-808f-f9e4d2501488" />
 
 
 ## Quick setup
