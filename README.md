@@ -11,6 +11,10 @@ Files added
 - `backend/sensor_client.js` — Node.js example that reads `sensor_data.json`, submits readings, listens for `CertificateIssued` events and writes results to `certificates_output.json`.
 - `sensor_data.json` — Example sensor readings.
 
+## Visual Worflow 
+<img width="1128" height="379" alt="image" src="https://github.com/user-attachments/assets/7537be6d-07e2-4ca1-beae-870fb5006662" />
+
+
 ## Quick setup
 
 1. Copy `.env.example` to `.env` and fill values:
